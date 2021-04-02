@@ -1,0 +1,1022 @@
+{
+  "user1Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-1"
+  },
+  "user1Title1": {
+    "type": "hidden",
+    "label": "User 1",
+    "group": "user-1"
+  },
+  "user1Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-1"
+  },
+  "user1": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-1"
+  },
+  "userSound1": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-1"
+  },
+  "userVolume1": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-1",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user2Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-2"
+  },
+  "user2Title1": {
+    "type": "hidden",
+    "label": "User 2",
+    "group": "user-2"
+  },
+  "user2Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-2"
+  },
+  "user2": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-2"
+  },
+  "userSound2": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-2"
+  },
+  "userVolume2": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-2",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user3Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-3"
+  },
+  "user3Title1": {
+    "type": "hidden",
+    "label": "User 3",
+    "group": "user-3"
+  },
+  "user3Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-3"
+  },
+  "user3": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-3"
+  },
+  "userSound3": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-3"
+  },
+  "userVolume3": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-3",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user4Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-4"
+  },
+  "user4Title1": {
+    "type": "hidden",
+    "label": "User 4",
+    "group": "user-4"
+  },
+  "user4Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-4"
+  },
+  "user4": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-4"
+  },
+  "userSound4": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-4"
+  },
+  "userVolume4": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-4",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user5Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-5"
+  },
+  "user5Title1": {
+    "type": "hidden",
+    "label": "User 5",
+    "group": "user-5"
+  },
+  "user5Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-5"
+  },
+  "user5": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-5"
+  },
+  "userSound5": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-5"
+  },
+  "userVolume5": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-5",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user6Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-6"
+  },
+  "user6Title1": {
+    "type": "hidden",
+    "label": "User 6",
+    "group": "user-6"
+  },
+  "user6Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-6"
+  },
+  "user6": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-6"
+  },
+  "userSound6": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-6"
+  },
+  "userVolume6": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-6",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user7Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-7"
+  },
+  "user7Title1": {
+    "type": "hidden",
+    "label": "User 7",
+    "group": "user-7"
+  },
+  "user7Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-7"
+  },
+  "user7": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-7"
+  },
+  "userSound7": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-7"
+  },
+  "userVolume7": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-7",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user8Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-8"
+  },
+  "user8Title1": {
+    "type": "hidden",
+    "label": "User 8",
+    "group": "user-8"
+  },
+  "user8Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-8"
+  },
+  "user8": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-8"
+  },
+  "userSound8": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-8"
+  },
+  "userVolume8": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-8",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user9Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-9"
+  },
+  "user9Title1": {
+    "type": "hidden",
+    "label": "User 9",
+    "group": "user-9"
+  },
+  "user9Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-9"
+  },
+  "user9": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-9"
+  },
+  "userSound9": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-9"
+  },
+  "userVolume9": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-9",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user10Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-10"
+  },
+  "user10Title1": {
+    "type": "hidden",
+    "label": "User 10",
+    "group": "user-10"
+  },
+  "user10Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-10"
+  },
+  "user10": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-10"
+  },
+  "userSound10": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-10"
+  },
+  "userVolume10": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-10",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user11Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-11"
+  },
+  "user11Title1": {
+    "type": "hidden",
+    "label": "User 11",
+    "group": "user-11"
+  },
+  "user11Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-11"
+  },
+  "user11": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-11"
+  },
+  "userSound11": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-11"
+  },
+  "userVolume11": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-11",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user12Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-12"
+  },
+  "user12Title1": {
+    "type": "hidden",
+    "label": "User 12",
+    "group": "user-12"
+  },
+  "user12Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-12"
+  },
+  "user12": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-12"
+  },
+  "userSound12": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-12"
+  },
+  "userVolume12": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-12",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user13Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-13"
+  },
+  "user13Title1": {
+    "type": "hidden",
+    "label": "User 13",
+    "group": "user-13"
+  },
+  "user13Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-13"
+  },
+  "user13": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-13"
+  },
+  "userSound13": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-13"
+  },
+  "userVolume13": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-13",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user14Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-14"
+  },
+  "user14Title1": {
+    "type": "hidden",
+    "label": "User 14",
+    "group": "user-14"
+  },
+  "user14Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-14"
+  },
+  "user14": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-14"
+  },
+  "userSound14": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-14"
+  },
+  "userVolume14": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-14",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user15Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-15"
+  },
+  "user15Title1": {
+    "type": "hidden",
+    "label": "User 15",
+    "group": "user-15"
+  },
+  "user15Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-15"
+  },
+  "user15": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-15"
+  },
+  "userSound15": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-15"
+  },
+  "userVolume15": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-15",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user16Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-16"
+  },
+  "user16Title1": {
+    "type": "hidden",
+    "label": "User 16",
+    "group": "user-16"
+  },
+  "user16Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-16"
+  },
+  "user16": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-16"
+  },
+  "userSound16": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-16"
+  },
+  "userVolume16": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-16",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user17Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-17"
+  },
+  "user17Title1": {
+    "type": "hidden",
+    "label": "User 17",
+    "group": "user-17"
+  },
+  "user17Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-17"
+  },
+  "user17": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-17"
+  },
+  "userSound17": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-17"
+  },
+  "userVolume17": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-17",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user18Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-18"
+  },
+  "user18Title1": {
+    "type": "hidden",
+    "label": "User 18",
+    "group": "user-18"
+  },
+  "user18Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-18"
+  },
+  "user18": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-18"
+  },
+  "userSound18": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-18"
+  },
+  "userVolume18": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-18",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user19Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-19"
+  },
+  "user19Title1": {
+    "type": "hidden",
+    "label": "User 19",
+    "group": "user-19"
+  },
+  "user19Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-19"
+  },
+  "user19": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-19"
+  },
+  "userSound19": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-19"
+  },
+  "userVolume19": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-19",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user20Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-20"
+  },
+  "user20Title1": {
+    "type": "hidden",
+    "label": "User 20",
+    "group": "user-20"
+  },
+  "user20Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-20"
+  },
+  "user20": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-20"
+  },
+  "userSound20": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-20"
+  },
+  "userVolume20": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-20",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user21Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-21"
+  },
+  "user21Title1": {
+    "type": "hidden",
+    "label": "User 21",
+    "group": "user-21"
+  },
+  "user21Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-21"
+  },
+  "user21": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-21"
+  },
+  "userSound21": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-21"
+  },
+  "userVolume21": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-21",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user22Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-22"
+  },
+  "user22Title1": {
+    "type": "hidden",
+    "label": "User 22",
+    "group": "user-22"
+  },
+  "user22Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-22"
+  },
+  "user22": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-22"
+  },
+  "userSound22": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-22"
+  },
+  "userVolume22": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-22",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user23Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-23"
+  },
+  "user23Title1": {
+    "type": "hidden",
+    "label": "User 23",
+    "group": "user-23"
+  },
+  "user23Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-23"
+  },
+  "user23": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-23"
+  },
+  "userSound23": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-23"
+  },
+  "userVolume23": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-23",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user24Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-24"
+  },
+  "user24Title1": {
+    "type": "hidden",
+    "label": "User 24",
+    "group": "user-24"
+  },
+  "user24Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-24"
+  },
+  "user24": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-24"
+  },
+  "userSound24": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-24"
+  },
+  "userVolume24": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-24",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user25Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-25"
+  },
+  "user25Title1": {
+    "type": "hidden",
+    "label": "User 25",
+    "group": "user-25"
+  },
+  "user25Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-25"
+  },
+  "user25": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-25"
+  },
+  "userSound25": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-25"
+  },
+  "userVolume25": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-25",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user26Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-26"
+  },
+  "user26Title1": {
+    "type": "hidden",
+    "label": "User 26",
+    "group": "user-26"
+  },
+  "user26Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-26"
+  },
+  "user26": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-26"
+  },
+  "userSound26": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-26"
+  },
+  "userVolume26": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-26",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user27Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-27"
+  },
+  "user27Title1": {
+    "type": "hidden",
+    "label": "User 27",
+    "group": "user-27"
+  },
+  "user27Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-27"
+  },
+  "user27": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-27"
+  },
+  "userSound27": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-27"
+  },
+  "userVolume27": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-27",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user28Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-28"
+  },
+  "user28Title1": {
+    "type": "hidden",
+    "label": "User 28",
+    "group": "user-28"
+  },
+  "user28Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-28"
+  },
+  "user28": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-28"
+  },
+  "userSound28": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-28"
+  },
+  "userVolume28": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-28",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user29Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-29"
+  },
+  "user29Title1": {
+    "type": "hidden",
+    "label": "User 29",
+    "group": "user-29"
+  },
+  "user29Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-29"
+  },
+  "user29": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-29"
+  },
+  "userSound29": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-29"
+  },
+  "userVolume29": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-29",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  },
+  "user30Title0": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-30"
+  },
+  "user30Title1": {
+    "type": "hidden",
+    "label": "User 30",
+    "group": "user-30"
+  },
+  "user30Title2": {
+    "type": "hidden",
+    "label": "***************************",
+    "group": "user-30"
+  },
+  "user30": {
+    "type": "text",
+    "label": "User to detect",
+    "group": "user-30"
+  },
+  "userSound30": {
+    "type": "sound-input",
+    "label": "Audio played on viewer first message",
+    "group": "user-30"
+  },
+  "userVolume30": {
+    "type": "slider",
+    "label": "Audio volume",
+    "group": "user-30",
+    "value": 50,
+    "min": 0,
+    "max": 100,
+    "step": 5
+  }
+}
