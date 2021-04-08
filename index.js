@@ -164,6 +164,7 @@ window.addEventListener('onEventReceived', function (obj) {
     if (vips[user].played !== false) return;
     console.log("It's a me : audio", vips[user].sound);
     try {
+        vips[user].played = true
         let audio = new Audio();
         audio.src = vips[user].sound;
         audio.volume = parseFloat(vips[user].volume) / 100;
@@ -174,8 +175,7 @@ window.addEventListener('onEventReceived', function (obj) {
                 console.log(e);
                 res()
             };
-        })
-            .then(_ => vips[user].played = true);
+        });
     } catch (e) {
         console.log("Audio playback error:", e);
     }
